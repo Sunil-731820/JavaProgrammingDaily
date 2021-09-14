@@ -1,0 +1,2 @@
+# JavaProgrammingDaily
+Learning Purpose
